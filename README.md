@@ -1,5 +1,6 @@
-- 👋 Olá, sou @LaercioMatheus
-- 👀 Estou interessado me desenvolver para que eu possa encontrar uma vaga na área de desenvolvimento para empresas.
-- 🌱 Atualmente estou aprendendo Java Script, Java, JavaJSP (Java para Web), HTML/CSS e PHP.
-- 📫 Formas de contato (61) 99329-9400.
-- ⚡ Curiosidade: Tenho foco no que faço.
+👋 Olá, eu sou @LaercioMatheus!
+👀 Interesses: Estou focado em aprimorar minhas habilidades para ingressar no mercado de desenvolvimento, especialmente nas áreas de tecnologia da informação e web design.
+🌱 Atualmente aprendendo: JavaScript, Java, Java JSP (Java para Web), HTML/CSS, PHP, além de ter experiência com Linux, ferramentas Adobe e design de interfaces.
+📫 Contato: (61) 99329-9400.
+⚡ Curiosidade: Tenho foco, proatividade e boa comunicação, características que me ajudam a superar desafios e a colaborar efetivamente em equipe.
+🏆 Diferenciais: Experiência prática em manutenção de hardware e software, além de nível avançado em inglês.
